@@ -1,0 +1,42 @@
+# ── Python / Flask Backend ──
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.env
+
+# ── Zappa ──
+*.zip
+
+# ── Terraform ──
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+crash.log
+
+# ── AWS ──
+policy.json
+
+# ── Unity (Hassan's folder) ──
+unity-game/Library/
+unity-game/Temp/
+unity-game/Obj/
+unity-game/Build/
+unity-game/Builds/
+unity-game/Logs/
+unity-game/MemoryCaptures/
+unity-game/UserSettings/
+unity-game/.vs/
+*.csproj
+*.sln
+*.unitypackage
+*.app
+
+# ── OS / Editor ──
+.DS_Store
+Thumbs.db
+.vscode/
+*.log

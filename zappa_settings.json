@@ -1,0 +1,9 @@
+{
+  "production": {
+    "app_function": "app.app",
+    "aws_region": "us-east-1",
+    "project_name": "hitman-backend",
+    "runtime": "python3.9",
+    "s3_bucket": "hitman-npc-data"
+  }
+}
