@@ -4,9 +4,6 @@ Cloud backend for **AI Hitman: Cloud Integrated Open World Sandbox Game**, a Fin
 
 This repository contains the AWS cloud infrastructure, REST API, and live stats dashboard. The Unity game client is maintained separately by my project partner.
 
-🔗 **Live Dashboard:** http://hitman-npc-data.s3-website-us-east-1.amazonaws.com
-🔗 **Live API:** https://4kbub5enwb.execute-api.us-east-1.amazonaws.com/production/ping
-
 ---
 
 ## What This Repo Does
